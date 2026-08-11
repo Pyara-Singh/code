@@ -1,1 +1,1 @@
-cout << "hello" << endl;
+cout << "fff" << endl;
